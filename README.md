@@ -1,15 +1,11 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,15:11113B,35:312E81,55:7C3AED,75:C026D3,100:050816&text=Lizbeth%20Estrada&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Programming%20Technician%20%7C%20Systems%20Student&descSize=17&descColor=E9D5FF&descAlignY=59" width="100%" alt="Lizbeth Estrada animated neon header"/>
+<img src="./assets/header.svg" width="100%" alt="Lizbeth Estrada — Programming Technician | Systems Student — Frontend & Backend Development; Artificial Intelligence & Chatbots; Research & Data Analysis; Learning, adapting, building with purpose"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Frontend+%26+Backend+Development;Artificial+Intelligence+%26+Chatbots;Research+%26+Data+Analysis;Learning%2C+adapting%2C+building+with+purpose" alt="Animated LED developer text"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-7C3AED?style=for-the-badge&labelColor=080B18" alt="System online"/>
-<img src="https://img.shields.io/badge/DEVELOPER-MINDSET-C026D3?style=for-the-badge&labelColor=080B18" alt="Developer mindset"/>
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-A855F7?style=for-the-badge&labelColor=05050A" alt="System online"/>
+<img src="https://img.shields.io/badge/DEVELOPER-MINDSET-D946EF?style=for-the-badge&labelColor=05050A" alt="Developer mindset"/>
 
 <br/><br/>
 
@@ -17,9 +13,9 @@
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,35:7C3AED,65:DB2777,100:312E81" width="100%" alt="Neon purple section divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Neon purple section divider"/>
 
 ## 01 / About Me — Sobre mí
 
@@ -39,20 +35,28 @@ I'm interested in understanding problems from different perspectives and turning
 
 I'm adaptable to different technologies and project roles. I'm continuously developing my skills, exploring new tools, and learning to build increasingly useful, well-structured, and accessible software.
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:DB2777,50:7C3AED,100:312E81" width="100%" alt="Neon section divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Neon section divider"/>
 
 ## 02 / Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/></td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 
@@ -63,9 +67,9 @@ I'm adaptable to different technologies and project roles. I'm continuously deve
 - Document analysis, data analysis, and research
 - Software development focused on real-world needs
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:C026D3,100:7C3AED" width="100%" alt="Neon section divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Neon section divider"/>
 
 ## 03 / Currently Learning
 
@@ -74,9 +78,9 @@ I'm adaptable to different technologies and project roles. I'm continuously deve
 - Code quality, debugging, and problem-solving
 - New technologies and development workflows
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C026D3,50:7C3AED,100:312E81" width="100%" alt="Neon section divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Neon section divider"/>
 
 ## 04 / Projects with Purpose
 
@@ -86,9 +90,9 @@ My academic and personal projects explore ways to use programming, research, and
 
 Creo que el software debe hacer más que funcionar: debe responder a problemas importantes. Mis proyectos académicos y personales buscan combinar programación, investigación y tecnología para comprender necesidades reales y crear soluciones útiles.
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:DB2777,100:312E81" width="100%" alt="Neon section divider"/>
+<img src="./assets/divider.svg" width="100%" alt="Neon section divider"/>
 
 ## 05 / My Philosophy
 
@@ -102,4 +106,6 @@ Creo que el software debe hacer más que funcionar: debe responder a problemas i
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050816,25:312E81,50:7C3AED,75:C026D3,100:050816&section=footer&animation=twinkling" width="100%" alt="Animated neon purple footer"/>
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Animated ghost mascot waving goodbye next to a closed laptop"/>
