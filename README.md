@@ -1,15 +1,25 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,15:11113B,35:312E81,55:7C3AED,75:C026D3,100:050816&text=Lizbeth%20Estrada&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Programming%20Technician%20%7C%20Systems%20Student&descSize=17&descColor=E9D5FF&descAlignY=59" width="100%" alt="Lizbeth Estrada animated neon header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,45:7C3AED,100:DB2777&text=Lizbeth%20Estrada&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Programming%20Technician%20%7C%20Systems%20Student&descSize=16&descAlignY=58" width="100%" alt="Liz Estrada profile header"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Artificial+Intelligence+%26+Chatbots;Research+%26+Data+Analysis;Learning%2C+adapting%2C+building+with+purpose" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Frontend+%26+Backend+Development;Artificial+Intelligence+%26+Chatbots;Research+%26+Data+Analysis;Learning%2C+adapting%2C+building+with+purpose" alt="Animated LED developer text"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-7C3AED?style=for-the-badge&labelColor=080B18" alt="System online"/>
+<img src="https://img.shields.io/badge/DEVELOPER-MINDSET-C026D3?style=for-the-badge&labelColor=080B18" alt="Developer mindset"/>
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,35:7C3AED,65:DB2777,100:312E81" width="100%" alt="Neon purple section divider"/>
 
 ## 01 / About Me — Sobre mí
 
@@ -30,6 +40,8 @@ I'm interested in understanding problems from different perspectives and turning
 I'm adaptable to different technologies and project roles. I'm continuously developing my skills, exploring new tools, and learning to build increasingly useful, well-structured, and accessible software.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:DB2777,50:7C3AED,100:312E81" width="100%" alt="Neon section divider"/>
 
 ## 02 / Tech Stack
 
@@ -53,6 +65,8 @@ I'm adaptable to different technologies and project roles. I'm continuously deve
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:C026D3,100:7C3AED" width="100%" alt="Neon section divider"/>
+
 ## 03 / Currently Learning
 
 - C# and the .NET ecosystem
@@ -61,6 +75,8 @@ I'm adaptable to different technologies and project roles. I'm continuously deve
 - New technologies and development workflows
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C026D3,50:7C3AED,100:312E81" width="100%" alt="Neon section divider"/>
 
 ## 04 / Projects with Purpose
 
@@ -72,14 +88,18 @@ Creo que el software debe hacer más que funcionar: debe responder a problemas i
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:DB2777,100:312E81" width="100%" alt="Neon section divider"/>
+
 ## 05 / My Philosophy
 
 <div align="center">
 
 *"No nací sabiendo crear tecnología, nací con curiosidad por descubrir hasta dónde puedo llegar."*
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=E9D5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Learn+continuously.;Adapt+confidently.;Create+with+purpose." alt="Animated personal philosophy"/>
+
 **Learn continuously. Adapt confidently. Create with purpose.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DB2777,50:7C3AED,100:312E81&section=footer" width="100%" alt="Decorative purple footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050816,25:312E81,50:7C3AED,75:C026D3,100:050816&section=footer&animation=twinkling" width="100%" alt="Animated neon purple footer"/>
