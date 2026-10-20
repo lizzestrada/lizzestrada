@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="900" height="24" role="img" aria-label="Neon section divider">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818CF8" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#A855F7"/>
+      <stop offset=".5" stop-color="#D946EF"/>
+      <stop offset=".75" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="tr">
+      <stop offset="0" stop-color="#F5D0FE"/>
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="b" x="-50%" y="-300%" width="200%" height="700%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="11" width="900" height="2" fill="url(#ln)" opacity=".35" filter="url(#b)"/>
+  <rect x="0" y="11" width="900" height="1.5" fill="url(#ln)"/>
+  <ellipse cy="12" rx="46" ry="4" fill="url(#tr)">
+    <animate attributeName="cx" values="-50;950" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect x="445" y="7" width="10" height="10" fill="#0B0F19" stroke="#D946EF" stroke-width="1.5" transform="rotate(45 450 12)">
+    <animate attributeName="stroke" values="#D946EF;#818CF8;#D946EF" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
